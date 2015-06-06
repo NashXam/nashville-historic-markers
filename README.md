@@ -1,7 +1,7 @@
 # Nashville Historic Markers
 This is a group project where we will be building an application around [open data](https://data.nashville.gov) about historical markers provided by the Nashville Metro government. 
 
-**Working Title:** Histori-crawl.
+**Working Title:** HistoriCrawl.
 
 This will be a long-running series where we incrementally build a mobile application together. Each lesson will attempt to address a topic in a way that adds or improves functionality in our mobile application.
 
