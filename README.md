@@ -30,6 +30,6 @@ _Because of time constraints, examples in class will focus on one platform. Howe
 The first few lessons will be structured in a way that supports the free [Xamarin Starter Edition](http://xamarin.com/starter). To build beyond that, each person will either need a [purchased license](https://store.xamarin.com/), a valid [trial](http://developer.xamarin.com/guides/cross-platform/getting_started/beginning_a_xamarin_trial/), or to be paired with someone who does.
 
 ## Past Lessons
-####Lesson 1
-To Be Announced
+* **Lesson 1:** [Project Kickoff / Installing Xamarin](https://github.com/NashXam/nashville-historic-markers/wiki/Lesson-1)
+* **Lesson 2:** Coming Soon
 
