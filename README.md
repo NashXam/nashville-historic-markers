@@ -32,4 +32,5 @@ The first few lessons will be structured in a way that supports the free [Xamari
 ##Lessons
 * **Lesson 1** - June 16 - [Project Kickoff / Installing Xamarin](https://github.com/NashXam/nashville-historic-markers/wiki/Lesson-1)
 * **Lesson 2** - July 21 - [File > New / Working with Lists](https://github.com/NashXam/nashville-historic-markers/wiki/Lesson-2)
+* **Lesson 3** - August 18 - Lists Continued / REST-based Web Services
 
